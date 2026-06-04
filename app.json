@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Steve",
-    "slug": "steve-goals",
+    "name": "LifeToDo",
+    "slug": "life-todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
